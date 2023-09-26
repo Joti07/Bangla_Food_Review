@@ -1,4 +1,2 @@
 # Bangla_Food_Review
-Food Review From Bangla Comment using NLP.
-
-Dataset Link: https://docs.google.com/spreadsheets/d/1Bl03bcEzRkQP8Lpr_4l6TCkW7eFNsjNCUCHhZfD0zwI/edit#gid=0
+We implement bangla food review system where customers can check food quality or get information about food of resturants. We have created our own dataset from online platforms like foodpanda , food bank ect.
